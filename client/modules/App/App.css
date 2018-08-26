@@ -1,0 +1,17 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  overflow-x: hidden;
+}
+.main {
+	background-color: #3f4146;
+  margin: 0 auto;
+  min-height: calc(100vh - 304px);
+  padding: 15px;
+  margin: 0 auto;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+

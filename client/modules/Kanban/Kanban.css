@@ -1,0 +1,18 @@
+.Container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 50px 0 250px;
+}
+
+.LaneContainer {
+	display: flex;
+}
+
+.AddLane {
+  width: 200px;
+  font-size: 15px;
+  color: #f6f7f2;
+  border: 2px solid greenyellow;
+  margin-bottom: 60px;
+}
